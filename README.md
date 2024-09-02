@@ -10,5 +10,5 @@ But when user clicks the generate button then the website will secretly capture 
 
 #Things required
 
-gunicorn: module of python which is a python server
+**gunicorn: module of python which is a python server**
 ngrok: it will do port forwarding.
