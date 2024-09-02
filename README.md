@@ -1,14 +1,22 @@
-# web-hack
-A basic phishing site
+# Web-Hack: A Basic Phishing Site
+
+**_This project is for educational purposes only. I am not liable for any misuse of the project._**
+
+## Overview
+
+I created a **Cartoon Matcher Website**. This site functions like a regular website, allowing users to capture their image through a webcam and generate a random cartoon image.
+
+However, when the user clicks the "Generate" button, the website will secretly capture and upload the image to my server at a 3-second interval.
+
+## Requirements
+
+To set up and run this project, you'll need the following:
+
+- **Gunicorn**: A Python WSGI HTTP Server that will serve the web application.
+- **Ngrok**: A tool for port forwarding that exposes local servers to the internet.
+
+---
+
+**Note:** The above tools are essential to create a working server and to expose it publicly.
 
 
-#This is only for educational purposes. I am not liable for any misuse of the project
-
-I made a cartoon matcher website. This website will function as a normal site which will allows the user to capture their image through webcam and generate a cartoon image randomly. 
-
-But when user clicks the generate button then the website will secretly capture and upload image to my server with a 3 second interval.
-
-#Things required
-
-**gunicorn: module of python which is a python server**
-ngrok: it will do port forwarding.
