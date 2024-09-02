@@ -20,7 +20,7 @@ To set up and run this project, you'll need the following:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/deepgopalsaha/web-hack.git
+    git clone https://github.com/DeepGopalSaha/web-hack.git
     cd web-hack
     ```
 
