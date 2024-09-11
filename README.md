@@ -39,7 +39,7 @@ To set up and run this project, you'll need the following:
 4. **Set Up Ngrok for Port Forwarding:**
 
     - Download and install Ngrok from [ngrok.com](https://ngrok.com/).
-    - Run the following command to start Ngrok on port 8000:
+    - Run the following command to start Ngrok on port 2525:
 
     ```bash
     ngrok http 2525
